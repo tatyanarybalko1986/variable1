@@ -38,7 +38,7 @@ var friend = 19;
         System.out.println ("Задание 3");
         var boxer1Wight = 78.2;
         var boxer2Wight = 82.7;
-        System.out.println ("Общий вес боксеров: " + (boxer1Wight + boxer2Wight));
+        System.out.println ("Общий вес двух боксеров: " + (boxer1Wight + boxer2Wight));
         System.out.println ("Разница в весе боксеров: " + (boxer2Wight - boxer1Wight));
         System.out.println ("Разница в весе боксеров (1 способ): " + (boxer2Wight - boxer1Wight));
         System.out.println ("Разница в весе боксеров (2 способ): " + (boxer2Wight % boxer1Wight));
